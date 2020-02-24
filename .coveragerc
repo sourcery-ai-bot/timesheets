@@ -1,0 +1,3 @@
+[run]
+source = timesheets
+omit = timesheets/test*
