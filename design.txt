@@ -1,0 +1,10 @@
+id
+date
+client
+hours
+activity_code
+activity_detail
+job
+start_time
+finish_time
+user_id_fk
